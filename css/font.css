@@ -1,0 +1,155 @@
+#font-color {
+    color: #aeaeaed5;
+}
+#lin-ha{
+    line-height: 1.3;
+}
+
+
+
+
+
+
+/* <!--start SIMPLE --> */
+.contenar .txet-simple {
+    line-height: 1.3;
+}
+
+.contenar .txet-simple h1 {
+    font-size: 50px;
+}
+
+.contenar .txet-simple p {
+    color: rgba(88, 88, 88, 0.936);
+}
+@media (max-width:1000px) {
+    .contenar .txet-simple h1 {
+        font-size: 30px;
+    }
+}
+@media (max-width:430px) {
+    .contenar .txet-simple h1 {
+        font-size: 20px;
+    }
+}
+/* -----------------------------section2 SUCCESS------------------------- */
+.SUCCESS .Product h1 {
+    font-size: 40px;
+    padding-top: 40px;
+}
+.SUCCESS .Product p{
+    line-height: 1.8;
+    font-size: 18px;
+    padding-top: 30px;
+}
+#font-icon{
+    color: #d2b356;
+    padding-bottom: 25px;
+    font-size: 45px;
+}
+.SUCCESS .grop1>div>div h3 ,.SUCCESS .grop2>div>div h3{
+    padding-bottom: 10px;
+}
+@media (max-width:1000px) {
+    .SUCCESS .Product h1 {
+        font-size: 40px;
+        padding-top: 20px;
+    }
+    .SUCCESS .Product p{
+        line-height: 1.3;
+        padding-top: 0px;
+    }
+}
+
+@media (max-width:430px) {
+
+    .SUCCESS .Product h1 {
+        font-size: 20px;
+        padding-top: 15px;
+    }
+    .SUCCESS .Product p {
+        font-size: 15px;
+    }
+    .SUCCESS .grop1>div>div h3, .SUCCESS .grop2>div>div h3 {
+        font-size: 20px;
+    }
+    .SUCCESS .grop1>div>div p, .SUCCESS .grop2>div>div p {
+        font-size: 10px;
+    }
+    #font-icon {
+        font-size: 30px;
+    }
+}
+
+
+
+
+/* --------------------------Focusing--------------------- */
+.contenar .Lorem{
+    direction: rtl;
+    font-size: 20px;
+}
+.contenar .BELIEVING .Focusing h1{
+    font-size: 40px;
+    padding-top: 20px;
+}
+.contenar .BELIEVING .pargraf{
+    padding-top: 10px;
+} 
+
+@media (max-width:430px) {
+    .contenar .BELIEVING .Focusing h1{
+        font-size: 25px;
+
+    }
+}
+/* ------------------------trust------------------ */
+.trust .services h1{
+    font-size: 43px;
+}
+.trust .services p{
+    line-height: 2;
+}
+@media (max-width:430px) {
+    .trust .services h1{
+        font-size: 23px;
+    }
+    .trust .services p{
+        line-height: 1.3;
+    }
+    .contenar .BELIEVING .link a {
+        font-size: 10px;
+    }
+}
+/* ----------------------------YOUR CHOICE---------------- */
+.YOUR-CHOICE .choice h1{
+    font-size:40px ;
+}
+.YOUR-CHOICE .grop-salory >div .PERSONAL .Lorem div{
+    font-size: 62px;
+}
+.YOUR-CHOICE .grop-salory >div .PERSONAL .Lorem div span{
+font-size: 22px;
+}
+@media (max-width:430px) {
+    .YOUR-CHOICE .choice h1{
+        font-size:12px ;
+    }
+    .YOUR-CHOICE .grop-salory >div .PERSONAL .Lorem div{
+        font-size: 52px;
+    }
+    .YOUR-CHOICE .grop-salory >div .PERSONAL .lest h3{
+        font-size: 10px;
+    }
+
+    .YOUR-CHOICE .grop-salory>div .PERSONAL .link a {
+        font-size: 10px;
+    }
+ 
+}
+
+
+
+
+
+
